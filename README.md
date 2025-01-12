@@ -69,4 +69,4 @@ License
 This project is licensed under the MIT License.
 
 Acknowledgements
-The dataset used in this project is publicly available and sourced from the UCI Machine Learning Repository.
+The dataset used in this project is publicly available and sourced from the UCI Machine Learning Repository...
