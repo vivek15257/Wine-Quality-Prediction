@@ -1,5 +1,5 @@
 Wine Quality Prediction using Linear Regression
-This project demonstrates the use of Linear Regression to predict the quality of wine based on its chemical properties. The dataset used in this project is a wine quality dataset containing features like acidity, sugar, chlorides, alcohol content, etc...
+This project demonstrates the use of Linear Regression to predict the quality of wine based on its chemical properties. The dataset used in this project is a wine quality dataset containing features like acidity, sugar, chlorides, alcohol content, etc..
 
 Dataset
 The dataset used is the WineQT.csv, which contains the following columns:-
